@@ -1,6 +1,6 @@
 # Fud Crypter 
-#Eset Node32 bypass
-#Node32 bypass
+#Eset Nod32 bypass
+#Nod32 bypass
 
 ShowCase
 
